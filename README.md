@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Ciao! Sono Marco Di Tullo
 
-<!--
-**DiTulloMarco/DiTulloMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Studente di Ingegneria Informatica presso La Sapienza*  
+💻 *Sviluppatore fullstack & backend con esperienza in .NET, Django, Next.js e GCP*  
+🔐 *Appassionato di Cybersecurity (Red Team) e Sistemi Operativi*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Su di me
+
+Sono uno sviluppatore curioso e determinato, con un forte interesse per il mondo low-level, la sicurezza offensiva e l’architettura dei sistemi.  
+
+Porto avanti progetti pratici che spaziano dallo sviluppo web a implementazione di system call. Amo esplorare i sistemi, capire come funzionano e trovare il modo di romperli.
+
+---
+
+## 🛠️ Competenze principali
+
+- **Linguaggi**: Python, C, C++, C#, Java, JavaScript, TypeScript, HTML/CSS, PHP, SQL, Assembly x86  
+- **Framework**: .NET, Django, Next.js, React, Angular, Vue.js, Spring  
+- **DevOps/Cloud**: Docker, GitLab Pipelines, Google Cloud Platform  
+- **Database**: SQL, NoSQL, Firebase/Supabase
+- **Sistemi**: Windows, Linux, conoscenze approfondite su kernel, cybersecurity e reti  
+- **Altro**: Flutter, basi di Project Management (Scrum)
+
+---
+
+## 🧪 Progetti in evidenza
+
+- 🔗 **Joinit** – Fullstack app con Django + Next.js  
+  [🔎 GitHub Repo](https://github.com/DiTulloMarco/Joinit)
+  
+- ☁️ [**Pinnalo**](pinnalo.it) – Backend Dev & DevOps con Django, GCP e GitLab Pipelines  
+  *(in corso)*
+
+---
+
+## 🚀 Cosa sto cercando
+
+- Opportunità per contribuire a progetti in:
+  - Sicurezza offensiva / Red Team  
+  - Sviluppo di tool o sistemi low-level  
+  - Automazione e ottimizzazione di infrastrutture cloud  
+- Team che valorizzino la sperimentazione, la crescita tecnica e la condivisione
+
+---
+
+## 📫 Contatti
+
+- 📧 **Email**: marcoditullo02@gmail.com  
+- 🐙 **GitLab**: [@DiTulloMarco](https://gitlab.com/marcoditullo02)
+
+---
+
+## 📈 GitHub Stats (opzionale)
+
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiTulloMarco&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiTulloMarco&layout=compact&theme=radical)
