@@ -30,7 +30,7 @@ Porto avanti progetti pratici che spaziano dallo sviluppo web a implementazione 
 - 🔗 **Joinit** – Fullstack app con Django + Next.js  
   [🔎 GitHub Repo](https://github.com/DiTulloMarco/Joinit)
   
-- ☁️ [**Pinnalo**](pinnalo.it) – Backend Dev & DevOps con Django, GCP e GitLab Pipelines  
+- ☁️ [**Pinnalo**](https://pinnalo.it) – Backend Dev & DevOps con Django, GCP e GitLab Pipelines  
   *(in corso)*
 
 ---
@@ -50,9 +50,3 @@ Porto avanti progetti pratici che spaziano dallo sviluppo web a implementazione 
 - 📧 **Email**: marcoditullo02@gmail.com  
 - 🐙 **GitLab**: [@DiTulloMarco](https://gitlab.com/marcoditullo02)
 
----
-
-## 📈 GitHub Stats (opzionale)
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiTulloMarco&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiTulloMarco&layout=compact&theme=radical)
